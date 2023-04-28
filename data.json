@@ -1,0 +1,75 @@
+{
+  "name": "Shein Ko Ko Win",
+  "profile_img": "https://avatars.githubusercontent.com/u/64633433?v=4",
+  "position": "Full-Stack Developer",
+  "experience": "+3",
+  "completed_project": "15+",
+  "resume_link": "https://sheinko.tk/resume.pdf",
+  "project_list": [
+    {
+      "name": "Movie App with VKontakte api",
+      "languages": ["Php", "Laravel", "Flutter"],
+      "thumbnail": "https://static.fandomspot.com/images/02/12092/01-the-kings-avatar-anime.jpg",
+      "link": "https://github.com/sheinko557/movie-app-with-vkontakte"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "data": [
+        { "name": "HTML", "level": "Intermediate" },
+        { "name": "CSS", "level": "Intermediate" },
+        { "name": "Javascript", "level": "Intermediate" },
+        { "name": "React", "level": "Basic" },
+        { "name": "Vue", "level": "Intermediate" },
+        { "name": "Angular", "level": "Intermediate" },
+        { "name": "Flutter", "level": "Basic" }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "data": [
+        { "name": "PHP", "level": "Intermediate" },
+        { "name": "Node.js", "level": "Intermediate" },
+        { "name": "Python", "level": "Intermediate" },
+        { "name": "Golang", "level": "Intermediate" }
+      ]
+    },
+    {
+      "name": "Databases",
+      "data": [
+        { "name": "Mysql", "level": "Intermediate" },
+        { "name": "MongoDB", "level": "Intermediate" }
+      ]
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "icon": "ri-instagram-line",
+      "src": "https://www.instagram.com/sheinko557"
+    },
+    {
+      "name": "Twitter",
+      "icon": "ri-twitter-line",
+      "src": "https://twitter.com/sheinko557"
+    },
+    {
+      "name": "Github",
+      "icon": "ri-github-line",
+      "src": "https://github.com/sheinko557"
+    }
+  ],
+  "contact_me": [
+    {
+      "name": "Telegram",
+      "icon": "ri-telegram-line",
+      "src": "https://t.me/errorx500"
+    },
+    {
+      "name": "Mail",
+      "icon": "ri-mail-send-fill",
+      "src": "mailto:sheinko557@gmail.com"
+    }
+  ]
+}
